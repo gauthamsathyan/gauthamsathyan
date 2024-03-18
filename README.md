@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
-<h3 align="center">A passionate Machine Learning Engineer / Software Engineer from Canada</h3>
 
 - 📝 I write articles on [https://medium.com/@gauthamsathyan](https://medium.com/@gauthamsathyan)
 
