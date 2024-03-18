@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
 
-- 📝 I write articles on [https://medium.com/@gauthamsathyan](https://medium.com/@gauthamsathyan)
+- 📝 I write articles on [**https://medium.com/@gauthamsathyan**](https://medium.com/@gauthamsathyan)
 
 - 📫 How to reach me **gautham.sathyan.official@gmail.com**
 
