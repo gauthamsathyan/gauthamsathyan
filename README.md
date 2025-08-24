@@ -1,5 +1,5 @@
-- Software Development, Reinforcement Learning, LLMs
+- Cloud, Software Engineering, Reinforcement Learning, LLMs
   
-  - Full Stack Development (Angular, Django, Flask)
+  - Full Stack Development (Angular, NestJS, Django)
   - Machine Learning (TensorFlow, PyTorch, Scikit-Learn, OpenAI Gym)
-  - Cloud (AWS, GCP, Heroku)
+  - Cloud (AWS, GCP)
